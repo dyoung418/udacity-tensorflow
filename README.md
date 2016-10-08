@@ -1,3 +1,11 @@
+#Danny's assignments from Udacity Deep Learning Class (Tensorflow)
+
+Here is the original README.md contents from this udacity
+directory in the tensorflow source:
+
+
+
+
 Assignments for Udacity Deep Learning class with TensorFlow
 ===========================================================
 
